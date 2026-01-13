@@ -1,0 +1,35 @@
+.visualizer-container {
+
+  position: fixed;
+
+  top: 0;
+
+  left: 0;
+
+  width: 100vw;
+
+  height: 100vh;
+
+  overflow: hidden;
+
+  z-index: 1;
+
+}
+
+
+
+.ui-overlay {
+
+  position: fixed;
+
+  z-index: 20;
+
+  color: white;
+
+  width: 100%;
+
+  padding: 20px;
+
+  text-shadow: 0 0 8px #000;
+
+}
