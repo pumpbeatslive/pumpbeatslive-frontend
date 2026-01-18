@@ -1,0 +1,19 @@
+body {
+  background: #0a0a0a;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.chat-box {
+  border: 1px solid #333;
+  padding: 10px;
+  height: 300px;
+  overflow-y: scroll;
+  margin-bottom: 10px;
+}
